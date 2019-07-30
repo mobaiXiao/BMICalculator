@@ -113,7 +113,7 @@ namespace BMICalculator
                                     ProgressBar.BackColor = Color.Red;
                                     ResultBox.Text = $"{finalBMI:f2}  You are Obese!";
                                 }
-
+                                
 
                             }
                             catch
